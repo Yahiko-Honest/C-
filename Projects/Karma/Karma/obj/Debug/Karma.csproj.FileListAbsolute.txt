@@ -1,0 +1,10 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Karma\Karma\bin\Debug\Karma.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Karma\Karma\bin\Debug\Karma.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Karma\Karma\bin\Debug\Karma.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Karma\Karma\obj\Debug\Karma.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Karma\Karma\obj\Debug\Karma.Form1.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Karma\Karma\obj\Debug\Karma.Properties.Resources.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Karma\Karma\obj\Debug\Karma.csproj.GenerateResource.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Karma\Karma\obj\Debug\Karma.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Karma\Karma\obj\Debug\Karma.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Karma\Karma\obj\Debug\Karma.pdb

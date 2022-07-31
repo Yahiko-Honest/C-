@@ -1,0 +1,10 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Jump_Statements\Jump_Statements\bin\Debug\Jump_Statements.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Jump_Statements\Jump_Statements\bin\Debug\Jump_Statements.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Jump_Statements\Jump_Statements\bin\Debug\Jump_Statements.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Jump_Statements\Jump_Statements\obj\Debug\Jump_Statements.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Jump_Statements\Jump_Statements\obj\Debug\Jump_Statements.Form1.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Jump_Statements\Jump_Statements\obj\Debug\Jump_Statements.Properties.Resources.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Jump_Statements\Jump_Statements\obj\Debug\Jump_Statements.csproj.GenerateResource.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Jump_Statements\Jump_Statements\obj\Debug\Jump_Statements.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Jump_Statements\Jump_Statements\obj\Debug\Jump_Statements.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Jump_Statements\Jump_Statements\obj\Debug\Jump_Statements.pdb

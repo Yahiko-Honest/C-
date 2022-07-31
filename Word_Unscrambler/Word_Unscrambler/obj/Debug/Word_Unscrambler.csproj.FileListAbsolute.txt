@@ -1,0 +1,7 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Word_Unscrambler\Word_Unscrambler\bin\Debug\Word_Unscrambler.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Word_Unscrambler\Word_Unscrambler\bin\Debug\Word_Unscrambler.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Word_Unscrambler\Word_Unscrambler\bin\Debug\Word_Unscrambler.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Word_Unscrambler\Word_Unscrambler\obj\Debug\Word_Unscrambler.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Word_Unscrambler\Word_Unscrambler\obj\Debug\Word_Unscrambler.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Word_Unscrambler\Word_Unscrambler\obj\Debug\Word_Unscrambler.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Word_Unscrambler\Word_Unscrambler\obj\Debug\Word_Unscrambler.pdb

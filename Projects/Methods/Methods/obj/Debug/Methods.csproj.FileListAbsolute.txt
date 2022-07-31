@@ -1,0 +1,10 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Methods\Methods\obj\Debug\Methods.Form1.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Methods\Methods\obj\Debug\Methods.Properties.Resources.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Methods\Methods\obj\Debug\Methods.csproj.GenerateResource.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Methods\Methods\obj\Debug\Methods.pdb

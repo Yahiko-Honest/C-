@@ -1,0 +1,10 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Math Class\Math Class\bin\Debug\Math Class.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Math Class\Math Class\bin\Debug\Math Class.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Math Class\Math Class\bin\Debug\Math Class.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Math Class\Math Class\obj\Debug\Math Class.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Math Class\Math Class\obj\Debug\Math_Class.txtFirstNumber.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Math Class\Math Class\obj\Debug\Math_Class.Properties.Resources.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Math Class\Math Class\obj\Debug\Math Class.csproj.GenerateResource.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Math Class\Math Class\obj\Debug\Math Class.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Math Class\Math Class\obj\Debug\Math Class.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Math Class\Math Class\obj\Debug\Math Class.pdb

@@ -1,0 +1,10 @@
+C:\Users\ekmen\source\repos\TimerClass\TimerClass\bin\Debug\TimerClass.exe.config
+C:\Users\ekmen\source\repos\TimerClass\TimerClass\bin\Debug\TimerClass.exe
+C:\Users\ekmen\source\repos\TimerClass\TimerClass\bin\Debug\TimerClass.pdb
+C:\Users\ekmen\source\repos\TimerClass\TimerClass\obj\Debug\TimerClass.csproj.AssemblyReference.cache
+C:\Users\ekmen\source\repos\TimerClass\TimerClass\obj\Debug\TimerClass.Form1.resources
+C:\Users\ekmen\source\repos\TimerClass\TimerClass\obj\Debug\TimerClass.Properties.Resources.resources
+C:\Users\ekmen\source\repos\TimerClass\TimerClass\obj\Debug\TimerClass.csproj.GenerateResource.cache
+C:\Users\ekmen\source\repos\TimerClass\TimerClass\obj\Debug\TimerClass.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\source\repos\TimerClass\TimerClass\obj\Debug\TimerClass.exe
+C:\Users\ekmen\source\repos\TimerClass\TimerClass\obj\Debug\TimerClass.pdb

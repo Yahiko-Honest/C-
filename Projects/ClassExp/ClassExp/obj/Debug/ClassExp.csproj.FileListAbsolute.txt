@@ -1,0 +1,11 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ClassExp\ClassExp\obj\Debug\ClassExp.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ClassExp\ClassExp\obj\Debug\ClassExp.Form1.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ClassExp\ClassExp\obj\Debug\ClassExp.Properties.Resources.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ClassExp\ClassExp\obj\Debug\ClassExp.csproj.GenerateResource.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ClassExp\ClassExp\obj\Debug\ClassExp.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ClassExp\ClassExp\bin\Debug\ClassExp.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ClassExp\ClassExp\bin\Debug\ClassExp.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ClassExp\ClassExp\bin\Debug\ClassExp.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ClassExp\ClassExp\obj\Debug\ClassExp.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ClassExp\ClassExp\obj\Debug\ClassExp.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ClassExp\ClassExp\obj\Debug\ClassExp.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\List\List\bin\Debug\List.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\List\List\bin\Debug\List.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\List\List\bin\Debug\List.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\List\List\obj\Debug\List.Form1.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\List\List\obj\Debug\List.Properties.Resources.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\List\List\obj\Debug\List.csproj.GenerateResource.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\List\List\obj\Debug\List.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\List\List\obj\Debug\List.pdb

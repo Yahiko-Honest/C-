@@ -1,0 +1,13 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\deneme\deneme\bin\Debug\Xceed.Document.NET.dll
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\deneme\deneme\bin\Debug\Xceed.Words.NET.dll
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\deneme\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\deneme\deneme\obj\Debug\deneme.csproj.CopyComplete
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\deneme\deneme\obj\Debug\deneme.pdb

@@ -1,0 +1,10 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Date_time_picker\Date_time_picker\bin\Debug\Date_time_picker.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Date_time_picker\Date_time_picker\bin\Debug\Date_time_picker.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Date_time_picker\Date_time_picker\bin\Debug\Date_time_picker.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Date_time_picker\Date_time_picker\obj\Debug\Date_time_picker.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Date_time_picker\Date_time_picker\obj\Debug\Date_time_picker.Form1.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Date_time_picker\Date_time_picker\obj\Debug\Date_time_picker.Properties.Resources.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Date_time_picker\Date_time_picker\obj\Debug\Date_time_picker.csproj.GenerateResource.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Date_time_picker\Date_time_picker\obj\Debug\Date_time_picker.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Date_time_picker\Date_time_picker\obj\Debug\Date_time_picker.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Date_time_picker\Date_time_picker\obj\Debug\Date_time_picker.pdb

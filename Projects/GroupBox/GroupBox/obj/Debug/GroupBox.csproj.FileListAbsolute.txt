@@ -1,0 +1,10 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\GroupBox\GroupBox\bin\Debug\GroupBox.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\GroupBox\GroupBox\bin\Debug\GroupBox.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\GroupBox\GroupBox\bin\Debug\GroupBox.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\GroupBox\GroupBox\obj\Debug\GroupBox.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\GroupBox\GroupBox\obj\Debug\GroupBox.Form1.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\GroupBox\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\GroupBox\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\GroupBox\GroupBox\obj\Debug\GroupBox.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\GroupBox\GroupBox\obj\Debug\GroupBox.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\GroupBox\GroupBox\obj\Debug\GroupBox.pdb

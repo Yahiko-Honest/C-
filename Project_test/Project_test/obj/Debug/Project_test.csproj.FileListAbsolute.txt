@@ -1,0 +1,10 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project_test\Project_test\obj\Debug\Project_test.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project_test\Project_test\obj\Debug\Project_test.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project_test\Project_test\bin\Debug\Project_test.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project_test\Project_test\bin\Debug\Project_test.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project_test\Project_test\bin\Debug\Project_test.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project_test\Project_test\bin\Debug\Xceed.Document.NET.dll
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project_test\Project_test\bin\Debug\Xceed.Words.NET.dll
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project_test\Project_test\obj\Debug\Project_test.csproj.CopyComplete
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project_test\Project_test\obj\Debug\Project_test.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project_test\Project_test\obj\Debug\Project_test.pdb

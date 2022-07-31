@@ -1,0 +1,7 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\File_exercise\File_exercise\bin\Debug\File_exercise.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\File_exercise\File_exercise\bin\Debug\File_exercise.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\File_exercise\File_exercise\bin\Debug\File_exercise.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\File_exercise\File_exercise\obj\Debug\File_exercise.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\File_exercise\File_exercise\obj\Debug\File_exercise.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\File_exercise\File_exercise\obj\Debug\File_exercise.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\File_exercise\File_exercise\obj\Debug\File_exercise.pdb

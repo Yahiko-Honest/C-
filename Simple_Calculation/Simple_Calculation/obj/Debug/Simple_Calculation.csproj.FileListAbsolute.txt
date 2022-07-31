@@ -1,0 +1,7 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Simple_Calculation\Simple_Calculation\bin\Debug\Simple_Calculation.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Simple_Calculation\Simple_Calculation\bin\Debug\Simple_Calculation.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Simple_Calculation\Simple_Calculation\bin\Debug\Simple_Calculation.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Simple_Calculation\Simple_Calculation\obj\Debug\Simple_Calculation.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Simple_Calculation\Simple_Calculation\obj\Debug\Simple_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Simple_Calculation\Simple_Calculation\obj\Debug\Simple_Calculation.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Simple_Calculation\Simple_Calculation\obj\Debug\Simple_Calculation.pdb

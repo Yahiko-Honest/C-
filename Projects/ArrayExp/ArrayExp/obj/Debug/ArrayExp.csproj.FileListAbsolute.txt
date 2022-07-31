@@ -1,0 +1,10 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ArrayExp\ArrayExp\bin\Debug\ArrayExp.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ArrayExp\ArrayExp\bin\Debug\ArrayExp.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ArrayExp\ArrayExp\bin\Debug\ArrayExp.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ArrayExp\ArrayExp\obj\Debug\ArrayExp.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ArrayExp\ArrayExp\obj\Debug\ArrayExp.Form1.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ArrayExp\ArrayExp\obj\Debug\ArrayExp.Properties.Resources.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ArrayExp\ArrayExp\obj\Debug\ArrayExp.csproj.GenerateResource.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ArrayExp\ArrayExp\obj\Debug\ArrayExp.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ArrayExp\ArrayExp\obj\Debug\ArrayExp.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\ArrayExp\ArrayExp\obj\Debug\ArrayExp.pdb

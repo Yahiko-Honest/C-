@@ -1,0 +1,10 @@
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Loop\Loop\bin\Debug\Loop.exe.config
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Loop\Loop\bin\Debug\Loop.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Loop\Loop\bin\Debug\Loop.pdb
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Loop\Loop\obj\Debug\Loop.csproj.AssemblyReference.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Loop\Loop\obj\Debug\Loop.Form1.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Loop\Loop\obj\Debug\Loop.Properties.Resources.resources
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Loop\Loop\obj\Debug\Loop.csproj.GenerateResource.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Loop\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Loop\Loop\obj\Debug\Loop.exe
+C:\Users\ekmen\Documents\Masaüstü\Udemy\C#\Project\Loop\Loop\obj\Debug\Loop.pdb
